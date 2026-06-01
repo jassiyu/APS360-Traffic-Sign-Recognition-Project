@@ -1,0 +1,44 @@
+C:\Users\26250>python d:/Study/UT/APS-360/Project/BaselineModel.py
+Number of training samples: 6020
+Number of validation samples: 1290
+CUDA is available!  Training on GPU ...
+Epoch [1/40], Train Loss: 3.4615, Train Acc: 6.16%, Val Loss: 3.1730, Val Acc: 11.01%
+Epoch [2/40], Train Loss: 2.9481, Train Acc: 15.23%, Val Loss: 2.6362, Val Acc: 23.10%
+Epoch [3/40], Train Loss: 2.4082, Train Acc: 26.46%, Val Loss: 2.1789, Val Acc: 31.71%
+Epoch [4/40], Train Loss: 1.9988, Train Acc: 36.66%, Val Loss: 1.8665, Val Acc: 39.77%
+Epoch [5/40], Train Loss: 1.7864, Train Acc: 41.38%, Val Loss: 1.6348, Val Acc: 46.20%
+Epoch [6/40], Train Loss: 1.6015, Train Acc: 47.16%, Val Loss: 1.5049, Val Acc: 50.93%
+Epoch [7/40], Train Loss: 1.4770, Train Acc: 51.41%, Val Loss: 1.3733, Val Acc: 54.57%
+Epoch [8/40], Train Loss: 1.3723, Train Acc: 54.45%, Val Loss: 1.2174, Val Acc: 58.91%
+Epoch [9/40], Train Loss: 1.2914, Train Acc: 57.16%, Val Loss: 1.1488, Val Acc: 61.86%
+Epoch [10/40], Train Loss: 1.2215, Train Acc: 58.27%, Val Loss: 1.1086, Val Acc: 63.10%
+Epoch [11/40], Train Loss: 1.1420, Train Acc: 61.05%, Val Loss: 1.0254, Val Acc: 65.66%
+Epoch [12/40], Train Loss: 1.0878, Train Acc: 63.54%, Val Loss: 0.9967, Val Acc: 65.74%
+Epoch [13/40], Train Loss: 1.0346, Train Acc: 65.32%, Val Loss: 0.9576, Val Acc: 67.83%
+Epoch [14/40], Train Loss: 0.9938, Train Acc: 66.73%, Val Loss: 0.9591, Val Acc: 67.13%
+Epoch [15/40], Train Loss: 0.9375, Train Acc: 67.84%, Val Loss: 0.8823, Val Acc: 68.37%
+Epoch [16/40], Train Loss: 0.9026, Train Acc: 69.57%, Val Loss: 0.8627, Val Acc: 72.95%
+Epoch [17/40], Train Loss: 0.8690, Train Acc: 70.85%, Val Loss: 0.8261, Val Acc: 72.09%
+Epoch [18/40], Train Loss: 0.8391, Train Acc: 71.96%, Val Loss: 0.7676, Val Acc: 74.34%
+Epoch [19/40], Train Loss: 0.7946, Train Acc: 72.99%, Val Loss: 0.7722, Val Acc: 74.73%
+Epoch [20/40], Train Loss: 0.7819, Train Acc: 73.92%, Val Loss: 0.7234, Val Acc: 75.66%
+Epoch [21/40], Train Loss: 0.7282, Train Acc: 75.42%, Val Loss: 0.7233, Val Acc: 76.12%
+Epoch [22/40], Train Loss: 0.7109, Train Acc: 76.05%, Val Loss: 0.6802, Val Acc: 76.59%
+Epoch [23/40], Train Loss: 0.7012, Train Acc: 76.06%, Val Loss: 0.6870, Val Acc: 77.52%
+Epoch [24/40], Train Loss: 0.6955, Train Acc: 76.26%, Val Loss: 0.6602, Val Acc: 78.37%
+Epoch [25/40], Train Loss: 0.6605, Train Acc: 77.31%, Val Loss: 0.6141, Val Acc: 79.30%
+Epoch [26/40], Train Loss: 0.6191, Train Acc: 79.04%, Val Loss: 0.6195, Val Acc: 80.23%
+Epoch [27/40], Train Loss: 0.6109, Train Acc: 79.20%, Val Loss: 0.6521, Val Acc: 77.44%
+Epoch [28/40], Train Loss: 0.5822, Train Acc: 80.65%, Val Loss: 0.6634, Val Acc: 78.14%
+Epoch [29/40], Train Loss: 0.5974, Train Acc: 79.77%, Val Loss: 0.6378, Val Acc: 78.76%
+Epoch [30/40], Train Loss: 0.5823, Train Acc: 80.07%, Val Loss: 0.5748, Val Acc: 81.09%
+Epoch [31/40], Train Loss: 0.5409, Train Acc: 81.88%, Val Loss: 0.6051, Val Acc: 81.71%
+Epoch [32/40], Train Loss: 0.5420, Train Acc: 81.84%, Val Loss: 0.5971, Val Acc: 81.47%
+Epoch [33/40], Train Loss: 0.5306, Train Acc: 81.86%, Val Loss: 0.5462, Val Acc: 82.79%
+Epoch [34/40], Train Loss: 0.5240, Train Acc: 82.39%, Val Loss: 0.5828, Val Acc: 81.24%
+Epoch [35/40], Train Loss: 0.5341, Train Acc: 81.56%, Val Loss: 0.5785, Val Acc: 80.70%
+Epoch [36/40], Train Loss: 0.4928, Train Acc: 83.17%, Val Loss: 0.5201, Val Acc: 84.34%
+Epoch [37/40], Train Loss: 0.4982, Train Acc: 83.21%, Val Loss: 0.5599, Val Acc: 82.09%
+Epoch [38/40], Train Loss: 0.4884, Train Acc: 83.49%, Val Loss: 0.5337, Val Acc: 83.57%
+Epoch [39/40], Train Loss: 0.4656, Train Acc: 84.30%, Val Loss: 0.4965, Val Acc: 84.50%
+Epoch [40/40], Train Loss: 0.4491, Train Acc: 84.98%, Val Loss: 0.5144, Val Acc: 84.19%

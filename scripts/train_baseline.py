@@ -2,14 +2,14 @@ from pathlib import Path
 import sys
 
 
-REPO_ROOT = Path(__file__).resolve().parent
+REPO_ROOT = Path(__file__).resolve().parents[1]
 SRC_DIR = REPO_ROOT / "src"
 
 if str(SRC_DIR) not in sys.path:
     sys.path.insert(0, str(SRC_DIR))
 
-from aps360_project.pipelines import run_project_cli
+from aps360_project.pipelines import train_baseline_cli
 
 
 if __name__ == "__main__":
-    run_project_cli()
+    train_baseline_cli()

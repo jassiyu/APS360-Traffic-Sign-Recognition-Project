@@ -1,5 +1,12 @@
 *.jpg
 *.png
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+*.pth
+outputs/
 *.zip
 *.pdf
 *ipynb
